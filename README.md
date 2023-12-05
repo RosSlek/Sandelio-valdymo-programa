@@ -39,5 +39,5 @@ This project was made to deepen my knowledge about python, learn new things, bet
 ![image](https://github.com/RosSlek/Sandelio-valdymo-programa/assets/149397027/8fd71ede-b352-4a9d-9e48-0c0636605a79)
 
 ## Conslusion
-It was a really nice experiece to work on this project, a bunch of new things learned, tons of bugs and puzzles to solve. I`m quite happy with the result and will continue to develop my skills. You can download this apllication and try it yourself [here](https://www.dropbox.com/scl/fi/vfekzijr6ds3hh8i2ra6b/Sand-lio-programa.rar?rlkey=svv8ing3xq0fnenmi4ja4289h&dl=0).
+It was a really nice experience to work on this project, a bunch of new things learned, tons of bugs and puzzles to solve. I`m quite happy with the result and will continue to develop my skills. You can download this apllication and try it yourself [here](https://www.dropbox.com/scl/fi/vfekzijr6ds3hh8i2ra6b/Sand-lio-programa.rar?rlkey=svv8ing3xq0fnenmi4ja4289h&dl=0).
 *Excel and exe files have to be in the directory they are, create shortcuts if needed. There also master files created deeper in the '_internal' folder with warehouse and production history so they could be restored if main excel files become corrupted.
