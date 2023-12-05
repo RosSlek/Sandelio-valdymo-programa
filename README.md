@@ -6,7 +6,8 @@ This project was made to deepen my knowledge about python, learn new things, bet
 
 ## The main goals for this project were to:
 #### •	Create app, which could be used for small business and make day-to-day job easier
-#### • Ensure work traceability
+#### • Ensure traceability in warehouse and production
+#### • Track material quantities
 #### • Learn about Tkinter
 #### • Have fun
 #### • Improve
