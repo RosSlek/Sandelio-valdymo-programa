@@ -1,0 +1,9 @@
+pandas
+datetime
+customtkinter
+Pillow
+utils
+PyPI
+CTkMessagebox
+packaging
+pandastable
