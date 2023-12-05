@@ -1,4 +1,4 @@
-# Sandelio valdymo programa
+# Warehouse control application
 
 Created by [Rosvaldas Šlekys](https://github.com/RosSlek) 
 
