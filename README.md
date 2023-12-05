@@ -5,7 +5,8 @@ Created by [Rosvaldas Šlekys](https://github.com/RosSlek)
 This project was made to deepen my knowledge about python, learn new things, better understand what I already knew and apply it to real life situations.
 
 ## The main goals for this project were to:
-#### •	Create app, which could be used for small business and make day-to-day job easier.
+#### •	Create app, which could be used for small business and make day-to-day job easier
+#### • Ensure work traceability
 #### • Learn about Tkinter
 #### • Have fun
 #### • Improve
