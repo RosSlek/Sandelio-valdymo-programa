@@ -8,15 +8,15 @@ This project was made to deepen my knowledge about python, learn new things, bet
 #### •	Create app, which could be used for small business and make day-to-day job easier.
 #### • Learn about Tkinter
 #### • Have fun
-#### •	Improve
+#### • Improve
 
 ## Main steps:
-#### •	Learn about Tkinter, create nice looking GUI.
+#### •	Learn about Tkinter, create nice looking UI.
 #### • Add functionality and comfortability.
 #### •	Adapt app to real business example
 
 ## Result:
-### Created GUI to represent daily workers activities.
+### Created UI to represent daily workers activities.
 ![image](https://github.com/RosSlek/Sandelio-valdymo-programa/assets/149397027/3d2e3d2b-92b6-4a74-bab2-e77ea8d0b3cb)
 
 ### Created functions to add materials to the warehouse, transfer materials to production with optional comment fields and timestamps when action occured. Functions to show remaining inventory in warehouse and production, informational popup windows.
